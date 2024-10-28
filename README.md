@@ -14,8 +14,7 @@ creating a React application.
 
 **Instructions:**
 1. Install the repository on your PC.
-2. Then, you **must** install React in this project. Full instructions -
-https://create-react-app.dev/docs/getting-started/.
+2. Then, you **must** install React in this project. Full [instructions](https://create-react-app.dev/docs/getting-started/).
 3. After installing React, you will have an extra file App.js. It should be replaced with the file app.js
 which is located in the Components folder.
 You can simply delete App.js.
@@ -27,6 +26,4 @@ cd here should be the name of your project, which you specify when installing Re
 7. Wait for a while, and the project will run in your browser.
 
 **Additional information** <br/>
-You should install React extension on your browser to track the state of components directly from the browser.<br/>
-
-https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+You should install React [extension](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) on your browser to track the state of components directly from the browser.<br/>
